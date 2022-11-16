@@ -1,1 +1,1 @@
-Repositório para o Bootcamp Qu‚bec Java Digital da DIO 2022 
+Repositório para o Bootcamp Québec Java Digital da DIO 2022 
